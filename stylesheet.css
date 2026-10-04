@@ -147,7 +147,7 @@ span.highlight {
 
 .course-list {
   list-style-type: disc;
-  margin: 2px 0 0;
+  margin: 4px 0 0;
   padding-left: 20px;
 }
 
@@ -159,9 +159,9 @@ span.highlight {
 
 .service-list li + li,
 .talk-list li + li {
-  margin-top: 2px;
+  margin-top: 4px;
 }
 
 .course-list li + li {
-  margin-top: 2px;
+  margin-top: 4px;
 }
